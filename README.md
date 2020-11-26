@@ -37,7 +37,7 @@ An app to connect orphanages with people who want to help them.
 This app was built during the "Next Level Week #3 | Rocketseat ".
 
 
-## :gear: Features
+## :gear: Technologies
 </br>
 ⌨️ <strong>Typescript</strong> —> Extends JavaScript by adding types;</br> 
 ⚙️ <strong>Node Js</strong> —> A platform for building network applications;</br>
